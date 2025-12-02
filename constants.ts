@@ -6,7 +6,7 @@ export const VENUE_INFO = {
   tagline: "Where Eternity Begins",
   address: "CCQM+63J, Nautanwa, Uttar Pradesh 273164",
   email: "info@theregalgarden.com",
-  phone: "+91 987 654 3210",
+  phone: "+91 7607728743",
   mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3549.400553750000!2d83.400000!3d27.400000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjfCsDI0JzAwLjAiTiA4M8KwMjQnMDAuMCJF!5e0!3m2!1sen!2sin!4v1600000000000!5m2!1sen!2sin" 
 };
 
