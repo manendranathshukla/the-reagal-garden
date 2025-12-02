@@ -1,5 +1,3 @@
-/** @jsx React.createElement */
-/** @jsxFrag React.Fragment */
 import React from 'react';
 import { Quote } from 'lucide-react';
 import { TESTIMONIALS } from '../constants';

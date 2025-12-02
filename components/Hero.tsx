@@ -1,5 +1,3 @@
-/** @jsx React.createElement */
-/** @jsxFrag React.Fragment */
 import React from 'react';
 import { ChevronDown } from 'lucide-react';
 import { VENUE_INFO } from '../constants';
