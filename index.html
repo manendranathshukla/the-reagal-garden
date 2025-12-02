@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
+<html lang="en" class="scroll-smooth scroll-pt-24">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -42,6 +42,10 @@
       }
       ::-webkit-scrollbar-thumb:hover {
         background: #b45309;
+      }
+      /* Ensure smooth scrolling behavior is enforced */
+      html {
+        scroll-behavior: smooth;
       }
     </style>
     <!-- Import Map to handle bare module specifiers -->
